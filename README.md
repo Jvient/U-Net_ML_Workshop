@@ -15,7 +15,7 @@ Le script Glorydata.py permet de récupérer le dataset complet utilisé dans l'
 * Implémentation Lightning
 * Résultats du comparatif avec visualisation dynaique (ipwidgets)
   
-## Notion abordées sur les bibliothèques suivantes : 
+## Notions abordées sur les bibliothèques suivantes : 
 
 - **PyTorch** : Framework deep learning
 - **PyTorch Lightning** : Abstraction haut niveau (structure, training loops, callbacks)
